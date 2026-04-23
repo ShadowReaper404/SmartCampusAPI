@@ -67,8 +67,8 @@ smart-campus-api/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-campus-api.git
-cd smart-campus-api
+git clone https://github.com/ShadowReaper404/SmartCampusAPI.git
+cd SmartCampusAPI
 ```
 
 **2. Build the project (creates a single runnable JAR)**
